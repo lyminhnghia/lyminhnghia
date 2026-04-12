@@ -45,8 +45,12 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="icon" width="65" height="65" />
-      <br>Python
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/flask.svg" alt="icon" width="65" height="65" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -65,7 +69,7 @@
       <br>Vite
     </td>
     <td align="center" width="96">
-      <img src="https://nestjs.com/img/logo-small.svg" width="65" height="65"alt="Nest Logo" />
+      <img src="https://nestjs.com/img/logo-small.svg" width="65" height="65" alt="Nest Logo" />
       <br>Nestjs
     </td>
   </tr>
@@ -91,23 +95,6 @@
       <br>Bootstrap
     </td>
   </tr>
-   <tr>
-    <td align="center" width="96">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" width="65" height="65">
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/babel.svg" alt="Babel" width="65" height="65">
-      <br>Babel
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/get-icon/geticon/raw/master/icons/rollup.svg" alt="rollup.js" width="65" height="65">
-      <br>Rollup
-    </td>
-    <td align="center" width="96">
-      <img src="https://esbuild.github.io/favicon.svg" alt="Esbuild" width="65" height="65">
-      <br>Esbuild
-    </td>
   </tr>
 </table>
 
